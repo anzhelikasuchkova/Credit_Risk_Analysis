@@ -2,16 +2,24 @@
 
 ## Deliverable 4: 
 
-### Overview of the analysis: 
+### Overview of the loan prediction risk analysis: 
 
-### Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+- The purpose of this analysis is well defined (4 pt)
+
+### Results: 
+
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+
+There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
 #### Oversampling
 
 Compare two oversampling algorithms to determine which algorithm results in the best performance.
 
+##### Naive Random Oversampling 
 <img width="967" alt="Screen Shot 2022-05-03 at 12 45 09 AM" src="https://user-images.githubusercontent.com/93845867/166414126-9638f90d-d3a3-41d2-ad8a-c63e3925c957.png">
 
+##### SMOTE Oversampling
 <img width="962" alt="Screen Shot 2022-05-03 at 12 45 28 AM" src="https://user-images.githubusercontent.com/93845867/166414135-dc39f5b5-a2b2-4d3c-ac7a-1988db8115d1.png">
 
 #### Undersampling
@@ -34,25 +42,9 @@ Compare two ensemble algorithms to determine which algorithm results in the best
 
 <img width="963" alt="Screen Shot 2022-05-03 at 12 44 14 AM" src="https://user-images.githubusercontent.com/93845867/166414110-65612f48-121f-4764-b85f-c935727b8238.png">
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+### Summary: 
+Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-Deliverable 4 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections (2 pt)
-Each section has a heading and subheading (2 pt)
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (24 points)
-The written analysis has the following:
-
-Overview of the loan prediction risk analysis:
-
-The purpose of this analysis is well defined (4 pt)
-Results:
-
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-Summary:
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
