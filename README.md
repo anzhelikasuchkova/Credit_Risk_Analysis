@@ -45,8 +45,5 @@ Compare two ensemble algorithms to determine which algorithm results in the best
 <img width="963" alt="Screen Shot 2022-05-03 at 12 44 14 AM" src="https://user-images.githubusercontent.com/93845867/166414110-65612f48-121f-4764-b85f-c935727b8238.png">
 
 ### Summary: 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+Out of all 6 models, Easy Ensemble AdaBoost Classifier had the best balance of accuracy, precision and recall. I would recommend using it over the other models. 
