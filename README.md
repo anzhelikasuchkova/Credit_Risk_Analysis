@@ -16,18 +16,20 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 Compare two oversampling algorithms to determine which algorithm results in the best performance.
 
-##### Naive Random Oversampling 
+##### Naive Random Oversampling: 
+- Balanced accuracy is 65% 
 <img width="967" alt="Screen Shot 2022-05-03 at 12 45 09 AM" src="https://user-images.githubusercontent.com/93845867/166414126-9638f90d-d3a3-41d2-ad8a-c63e3925c957.png">
 
 ##### SMOTE Oversampling
+- Balanced accuracy is 66% 
 <img width="962" alt="Screen Shot 2022-05-03 at 12 45 28 AM" src="https://user-images.githubusercontent.com/93845867/166414135-dc39f5b5-a2b2-4d3c-ac7a-1988db8115d1.png">
 
 #### Undersampling
-
+- Balanced accuracy is 66% 
 <img width="966" alt="Screen Shot 2022-05-03 at 12 45 58 AM" src="https://user-images.githubusercontent.com/93845867/166414139-bb1f9686-e599-4b23-a890-232a4d794c11.png">
 
 #### Combination (Over and Under) Sampling 
-
+- Balanced accuracy is 54% 
 <img width="962" alt="Screen Shot 2022-05-03 at 12 46 18 AM" src="https://user-images.githubusercontent.com/93845867/166414144-2ea0d154-aaff-4735-8424-94689729662c.png">
 
 ### Ensemble Learners
@@ -35,11 +37,11 @@ Compare two oversampling algorithms to determine which algorithm results in the 
 Compare two ensemble algorithms to determine which algorithm results in the best performance. 
 
 #### Balanced Random Forest Classifier
-
+- Balanced accuracy is 77% 
 <img width="963" alt="Screen Shot 2022-05-03 at 12 43 40 AM" src="https://user-images.githubusercontent.com/93845867/166414085-cc8c79a7-d161-4c4f-a5a3-923e99b5e591.png">
 
 #### Easy Ensemble AdaBoost Classifier
-
+- Balanced accuracy is 92% 
 <img width="963" alt="Screen Shot 2022-05-03 at 12 44 14 AM" src="https://user-images.githubusercontent.com/93845867/166414110-65612f48-121f-4764-b85f-c935727b8238.png">
 
 ### Summary: 
